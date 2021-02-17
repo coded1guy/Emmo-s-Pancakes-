@@ -29,7 +29,7 @@ body {
 }
 /*sliding image in the home page*/
 .slider {
-	background-image: url(images/pancake-pics/pancake5.jpeg);
+	background-image: url(../../images/pancake-pics/pancake5.jpeg);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -109,7 +109,7 @@ body {
    float: left;
  }
  .slider {
-  background-image: url(images/pancake-pics/pancake5.jpg);
+  background-image: url(../../images/pancake-pics/pancake5.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 30px;
@@ -444,7 +444,7 @@ body {
   margin-bottom: 0;
   }
  .slider {
-  background-image: url(images/pancake-pics/pancake5.jpg);
+  background-image: url(../../images/pancake-pics/pancake5.jpg);
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -453,7 +453,7 @@ body {
  .banner {
  	 margin: 0;
  	 height: 500px;
-  background-image: url(images/pancake-pics/pancake.jpg);
+  background-image: url(../../images/pancake-pics/pancake.jpg);
   background-repeat: no-repeat;
   background-size: cover;
  }
