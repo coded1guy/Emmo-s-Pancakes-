@@ -1,0 +1,7 @@
+refactor1.0
+components/pages/
+images/pancake-pics/
+images/socials/
+components/styles/styles.css
+components/styles/
+images/pancake-pics/
